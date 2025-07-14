@@ -47,7 +47,7 @@ This project transforms learning about APIs from abstract concepts into an engag
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pokeapi-explorer.git
+   git clone https://github.com/nathanguevara/pokeapi-explorer.git
    cd pokeapi-explorer
    ```
 
