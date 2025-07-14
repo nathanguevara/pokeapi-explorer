@@ -2,7 +2,8 @@
 
 An interactive educational web application that teaches API concepts through hands-on exploration of Pokémon data. Perfect for students, developers, and anyone wanting to understand how APIs work in a fun, visual way.
 
-![PokéAPI Explorer Screenshot](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=PokéAPI+Explorer)
+<img width="1427" height="859" alt="Screenshot 2025-07-14 at 2 59 47 PM" src="https://github.com/user-attachments/assets/549a3865-ef71-40f3-94c6-903d46debacb" />
+
 
 ## 🎯 Purpose
 
